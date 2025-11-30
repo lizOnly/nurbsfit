@@ -13,4 +13,16 @@ NURBS surfaces are compact parametric representations widely used in Computer-Ai
 
 ## 🚀 Quick Start
 
-[Rest of your README remains the same...]
+### Installation
+
+```bash
+git clone https://github.com/lizOnly/nurbsfit.git
+cd nurbsfit
+pip install -r requirements.txt
+
+@inproceedings{nurbsfit,
+  title={NURBSFit: Robust Fitting of NURBS Surfaces to Point Clouds},
+  author={Fuentes Perez, Lizeth J. and Lafarge, Florent and Pajarola, Renato},
+  booktitle={International Conference on 3D Vision},
+  year={2026}
+}
